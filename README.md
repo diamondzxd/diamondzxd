@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/diamondzxd?tab=repositories](https://github.com/diamondzxd?tab=repositories)
 
-- 📝 I'm starting to write articles on [https://dev.to/diamondzxd](https://dev.to/diamondzxd)
+- 📝 I write articles on [https://dev.to/diamondzxd](https://dev.to/diamondzxd)
 
 - 💬 Ask me about **Routing and configuring Virtualization on OVH and Hetzner networks, I'll be glad to assist :)**
 
 - 📫 How to reach me **contact@piyush.ovh**
 
-- 📄 Know about my experiences [Resume.pdf](Resume.pdf)
+- 📄 See my Resume [Resume.pdf](Resume.pdf)
 
 - ⚡ Fun fact **I hold pen with the right hand and fork with the left hand :>**
 
@@ -39,7 +39,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/diamondzxd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diamondzxd" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diamondzxd&show_icons=true&locale=en&layout=compact" alt="diamondzxd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diamondzxd&show_icons=true&locale=en" alt="diamondzxd" /></p>
