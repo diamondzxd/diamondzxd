@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello fellow writers!](https://dev.to/diamondzxd/hello-fellow-writers-1fj9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
