@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Dhall</h1>
 <h3 align="center">A pre-final year B.Tech Student from New Delhi, India</h3>
 
-- 🔭 I’m currently working as Backend + DevOps Engineer at **XeliumTech Solutions**
+- 🔭 I’m currently working as Data Engineering Intern @ **[Dubverse.ai](https://dubverse.ai/)**
 
 - 🌱 I’m currently exploring **Node.js, headless web architecture and BlockChain**
 
