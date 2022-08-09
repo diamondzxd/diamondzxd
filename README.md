@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I hold pen with the right hand and fork with the left hand :>**
 
-### Blogs posts
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Hello fellow writers!](https://dev.to/diamondzxd/hello-fellow-writers-1fj9)
 <!-- BLOG-POST-LIST:END -->
