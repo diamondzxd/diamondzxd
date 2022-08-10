@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Piyush Dhall</h1>
-<h3 align="center">A pre-final year B.Tech Student from New Delhi, India</h3>
+<h3 align="center">A final year CSE Undergrad from New Delhi, India</h3>
 
-- 🔭 I’m currently working as Data Engineering Intern @ **[Dubverse.ai](https://dubverse.ai/)**
+- 🔭 I’m currently working as Fellow Maker Expert @ **[NASSCOM Foundation](https://nasscomfoundation.org/)**
 
-- 🌱 I’m currently exploring **Node.js, headless web architecture and BlockChain**
+- 🌱 I’m currently exploring **DevOps and System Design**
 
-- 👯 I’m open for collaborations on **Full-Stack and Linux automation based projects.**
+- 👯 I’m open for collaborations on **Full-Stack projects and their Deployments**
 
 - 🤝 I’m looking for help with **Launching a Proxmox based Private Cloud service**
 
