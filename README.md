@@ -24,8 +24,17 @@
 - ⚡ Fun fact **I hold pen with the right hand and fork with the left hand :>**
 
 ### Tech Articles
+
 <!-- BLOG-POST-LIST:START -->
-- [Hello fellow writers!](https://dev.to/diamondzxd/hello-fellow-writers-1fj9)
+
+- [How to Configure Reverse Proxy with NGINX](https://lowendbox.com/blog/how-to-configure-reverse-proxy-with-nginx/)
+- [Filtering Spam in RainLoop, AutoReply and Email Filters with Sieve](https://community.cyberpanel.net/t/filtering-spam-in-rainloop-autoreply-and-email-filters-with-sieve/30637)
+- [Install SpamAssassin and Stop Email Spam on CyberPanel!](https://community.cyberpanel.net/t/install-spamassassin-and-stop-email-spam-on-cyberpanel/30651)
+- [How to Manually Set up SPF, DKIM and DMARC Inside CyberPanel](https://community.cyberpanel.net/t/how-to-manually-set-up-spf-dkim-and-dmarc-inside-cyberpanel/30666)
+- [Install and Supercharge Drupal 8 With OpenLiteSpeed and LSCache!](https://community.cyberpanel.net/t/install-and-supercharge-drupal-8-with-openlitespeed-and-lscache/30665)
+- [Install Joomla! With the LSCache Plugin](https://community.cyberpanel.net/t/install-joomla-with-the-lscache-plugin/30664)
+- [How to setup a Laravel application on CyberPanel!](https://community.cyberpanel.net/t/how-to-setup-a-laravel-application-on-cyberpanel/30667)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
