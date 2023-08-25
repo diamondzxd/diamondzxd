@@ -1,27 +1,29 @@
 <h1 align="center">Hi 👋, I'm Piyush Dhall</h1>
-<h3 align="center">A final year CSE Undergrad from New Delhi, India</h3>
+<h3 align="center">DevOps Engineer from New Delhi, India</h3>
 
-- 🔭 I’m currently working as Fellow Maker Expert @ **[NASSCOM Foundation](https://nasscomfoundation.org/)**
+- 🔭 I'm currently looking for roles in DevOps / SRE
+
+- 🔭 My previous work assignment was as DevOps Consultant @ **[NASSCOM Foundation](https://nasscomfoundation.org/)**
 
 - 🌱 I’m currently exploring **DevOps and System Design**
 
-- 👯 I’m open for collaborations on **Full-Stack projects and their Deployments**
+- 👯 I’m open for collaborat1ions on **Full-Stack projects and their Deployments**
 
 - 🤝 I’m looking for help with **Launching a Proxmox based Private Cloud service**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diamondzxd?tab=repositories](https://github.com/diamondzxd?tab=repositories)
 
-- 📝 I write articles on [https://dev.to/diamondzxd](https://dev.to/diamondzxd)
+- 📝 I recently [published a research paper](https://www.irjet.net/archives/V10/i7/IRJET-V10I7130.pdf) on current Cloud pricing models and proposed an alternate for low usage users.
 
 - 💬 Ask me about **Routing and configuring Virtualization on OVH and Hetzner networks, I'll be glad to assist :)**
 
 - 📫 How to reach me **contact@piyush.ovh**
 
-- 📄 See my Resume [Resume.pdf](Resume.pdf)
+- 📄 Want to get in touch? [See my Resume](https://drive.google.com/file/d/1zIyO9ofT5qOcRCr11DBDPMlrIzorg7JV/view)
 
 - ⚡ Fun fact **I hold pen with the right hand and fork with the left hand :>**
 
-### Blog Posts
+### Tech Articles
 <!-- BLOG-POST-LIST:START -->
 - [Hello fellow writers!](https://dev.to/diamondzxd/hello-fellow-writers-1fj9)
 <!-- BLOG-POST-LIST:END -->
