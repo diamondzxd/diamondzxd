@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Dhall</h1>
-<h3 align="center">DevOps Engineer from New Delhi, India</h3>
+<h3 align="center">DevOps Engineer / Full Stack Developer</h3>
 
 - 🔭 I'm currently looking for roles in DevOps / SRE
 
