@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush Dhall</h1>
 <h3 align="center">DevOps Engineer / Full Stack Developer</h3>
 
-- 🔭 I'm currently looking for roles in DevOps / SRE
+- 🔭 I'm currently looking for roles in DevOps / Full Stack Development
 
-- 🔭 My previous work assignment was as DevOps Consultant @ **[NASSCOM Foundation](https://nasscomfoundation.org/)**
+- 🔭 My previous work assignment was as DevOps Consultant @ **[nasscom foundation](https://nasscomfoundation.org/)**
 
 - 🌱 I’m currently exploring **DevOps and System Design**
 
