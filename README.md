@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently looking for roles in DevOps / Full Stack Development
 
-- 🔭 My previous work assignment was as DevOps Consultant @ **[nasscom foundation](https://nasscomfoundation.org/)**
+- 💼 My previous work assignment was as DevOps Consultant @ **[nasscom foundation](https://nasscomfoundation.org/)**
 
 - 🌱 I’m currently exploring **DevOps and System Design**
 
