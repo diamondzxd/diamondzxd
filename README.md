@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **DevOps and System Design**
 
-- 👯 I’m open for collaborat1ions on **Full-Stack projects and their Deployments**
+- 👯 I’m open for collaborations on **Full-Stack projects and their Deployments**
 
 - 🤝 I’m looking for help with **Launching a Proxmox based Private Cloud service**
 
